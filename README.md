@@ -2,7 +2,7 @@
 
 Lab sessions for Natural Language Processing course, taught at Imperial College London.
 
-See the [course Website](https://nlp.pages.doc.ic.ac.uk/spring2023/) for information on the Lab schedule.
+See the [NLP ED discussion board](https://edstem.org/us/courses/46846/discussion/4118871) for the Lab schedule.
 
 ## Colab Links
 
