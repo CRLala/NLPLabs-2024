@@ -1,4 +1,4 @@
-# Natural Language Processing (Spring Term 2023)
+# Natural Language Processing (Spring Term 2024)
 
 Lab sessions for Natural Language Processing course, taught at Imperial College London.
 
